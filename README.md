@@ -84,7 +84,7 @@ FTC Field Sim reads the same Java OpMode files you put in your `TeamCode` folder
 
 ## Who maintains and contributes
 
-Maintained by **YOUR NAME / TEAM NAME #12345**.
+Maintained by **Rameses Khambatti / Nocturnal#24330**.
 
 Want to help?
 
@@ -96,6 +96,7 @@ Ideas welcome:
 - More SDK features
 - An opponent robot for full matches
 - Fields from past seasons
+- When future seasons come, fields from those seasons
 
 ---
 
