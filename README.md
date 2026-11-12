@@ -70,11 +70,12 @@ FTC Field Sim reads the same Java OpMode files you put in your `TeamCode` folder
 
 ### Known limitations
 
-- Physics is approximate, so always tune on the real robot.
-- Flower positions are approximate.
+- Physics is approximate, so always fine tune on the real robot.
+- Flower positions are approximate and exact geometry of the hive is not entirely accurate.
 - NECTAR and vision (AprilTags, OpenCV) are not simulated.
 - The other alliance doesn't play yet, so its score shows 0.
 - Only one Java file is supported per program.
+- The robot cannot go through the 2 hives, as the hives are considered one obstacle in the code.
 
 ## Where to get help
 
