@@ -2,7 +2,7 @@
 
 A browser-based 3D simulator for FIRST Tech Challenge robots. Paste in your Java OpMode, and watch a virtual robot run it on a 3D field. There's nothing to install and no robot needed.
 
-> **Live demo:** https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+> **Live demo:** https://findingflea.github.io/FTC-BioBuzz-Simulation-/
 
 ---
 
@@ -79,7 +79,7 @@ FTC Field Sim reads the same Java OpMode files you put in your `TeamCode` folder
 
 ## Where to get help
 
-- **Issues:** report bugs or ask for features on the [Issues page](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/issues). Include your code, what you expected, and what happened.
+- **Issues:** report bugs or ask for features on the [Issues page](https://findingflea.github.io/FTC-BioBuzz-Simulation-/). Include your code, what you expected, and what happened.
 - **In the simulator:** the console shows errors with line numbers, and **Check code** tests your code without running it.
 - **FTC rules and SDK:** [FTC Docs](https://ftc-docs.firstinspires.org/) and the [official game manual](https://www.firstinspires.org/resource-library/ftc/game-and-season-info).
 
