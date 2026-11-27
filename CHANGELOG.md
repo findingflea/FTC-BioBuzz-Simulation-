@@ -1,16 +1,27 @@
-## Features, Improvements, and Bug Fixes
-FEATURE: Nov 16th: Added ability to traverse through the space between the hives
+# Changelog
+All notable changes to this project will be documented in this file.  
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/).
 
-IMPROVEMENT: Nov 16th: Only 8 pollen tips the hive (source: FTC game manual and previous games)
+## [1.3.0] - 2026-11-26
+### Added
+- Added AI opponents and an AI partner for full-game practice.
+- Added the ability to change AI opponent skill levels.
 
-BUG FIX: Nov 18th: Fixed Flywheel ball launching using kinematic equations and motion physics
+## [1.2.0] - 2026-11-21
+### Added
+- Added gamepad haptics.
 
-IMPROVEMENT: Nov 21st: Added gamepad haptics
+### Changed
+- Improved graphics and accuracy. The hive is now glass, similar to the real-life design, and flowers are positioned according to their real life locations on the field.
+- Improved ball-on-ball collisions and gravity calculations, making ball launching more realistic.
 
-IMPROVEMENT + BUG FIX: Nov 21st: Improved and more accurate graphics, Ball on ball collisions improved, gravity calculations fixed
+## [1.1.2] - 2026-11-18
+### Fixed
+- Fixed flywheel ball launching accuracy using kinematic equations.
 
-IMPROVEMENT: Nov 26th: Added AI opponents for full game practice, ability to change skill level of the AI's are also included
+## [1.1.0] - 2026-11-16
+### Added
+- Added the ability to traverse through the space between the hives.
 
-
-
-
+### Changed
+- Updated the gameplay rule so that 8 pollen are required to tip the hive instead of 4.
