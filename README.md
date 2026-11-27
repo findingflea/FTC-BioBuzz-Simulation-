@@ -2,7 +2,7 @@
 
 A browser-based 3D simulator for FIRST Tech Challenge robots. Paste in your Java OpMode, and watch a virtual robot run it on a 3D field. There's nothing to install and no robot needed.
 
-> **Live demo:** https://findingflea.github.io/FTC-BioBuzz-Simulation-/
+> **Live demo:** file:///Users/rameseskhambatti/Downloads/ftcbiobuzzsim/dist/ftc-field-sim.html
 
 ---
 
